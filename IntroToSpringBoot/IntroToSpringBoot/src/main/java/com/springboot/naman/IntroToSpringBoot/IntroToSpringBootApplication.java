@@ -41,5 +41,7 @@ public class IntroToSpringBootApplication implements CommandLineRunner {
 
 		//  REMOVE STATIC FROM APPLE
 		obj.eatApple();
+
+		obj.buy();
 	}
 }
